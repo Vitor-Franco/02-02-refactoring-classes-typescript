@@ -30,6 +30,8 @@ export const Container = styled.div<ContainerProps>`
 
   section.body {
     padding: 30px;
+    height: 280px;
+
 
     h2 {
       color: #3d3d4d;

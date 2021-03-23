@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3333',
+  baseURL: 'https://my-json-server.typicode.com/Vitor-Franco/02-02-refactoring-classes-typescript',
 });
 
 export default api;
