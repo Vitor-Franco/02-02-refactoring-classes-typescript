@@ -18,7 +18,7 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 🔥 Preview
 
-\*
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4919b34c-d63b-4f3a-b5cf-e8d3089336d2/deploy-status)](https://gorestaurant-vf.netlify.app/)\*
 <br>
 
 <p align="center">
